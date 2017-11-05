@@ -27,5 +27,11 @@ html{
 }
 li{
   padding: 5px;
-  margin-bottom:1px;
+  margin-bottom:10px;
+}
+h2{
+  display: inline-block;
+  vertical-align: middle;
+  font-size: 32px;
+  margin: 20px 0px;
 }
